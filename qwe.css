@@ -5,8 +5,15 @@
     border-color: black;
     border-width: 3px;
     text-align: center;
-    padding: auto;
+    font-size: 100px;
     line-height: 100%;
+    user-select: none;
+    
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: normal;
+      
+      
 }
 
 * {
